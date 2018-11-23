@@ -1,6 +1,6 @@
 .myname {
     float: left;
-    padding: 50px 0px 0px 50px;
+    padding: 50px 0px 0px 30px;
     font-family: raleway;
     font-size: 16px;
     font-weight: thin;
@@ -8,9 +8,18 @@
 .mymenu {
     font-family: raleway;
     font-weight: thin;
+    padding-top: 50px;
+    padding-right: 30px;
+}
+.mywork {
+    color: grey;
+}
+.aboutme {
+    color: grey;
 }
 h2{
     font-family: lusitana;
+    padding: 150px 0px 0px 130px; 
 }
 span{
     color: #2306AD;
