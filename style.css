@@ -1,0 +1,21 @@
+.myname {
+    float: left;
+    padding: 50px 0px 0px 50px;
+    font-family: raleway;
+    font-size: 16px;
+    font-weight: thin;
+}
+.mymenu {
+    font-family: raleway;
+    font-weight: thin;
+}
+h2{
+    font-family: lusitana;
+}
+span{
+    color: #2306AD;
+}
+
+.banner {
+    height: 100vh;
+}
